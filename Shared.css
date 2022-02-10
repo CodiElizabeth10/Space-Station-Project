@@ -221,7 +221,7 @@ section {
     box-shadow: -1px -1px 1px 0 rgba(0,0,0,0.1), 1px 2px 10px 0 rgba(0,0,0,0.5);
 }
 
-.reservations h2 {
+.reservation h2 {
     width: 70%;
     text-align: center;
     margin: 0 auto;
@@ -232,7 +232,7 @@ section {
     word-spacing: 0pt;
 }
 
-.reservations h2 span {
+.reservation h2 span {
     width: 70%;
     text-align: center;
     margin: 0 auto;
